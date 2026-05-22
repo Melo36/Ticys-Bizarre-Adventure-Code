@@ -20,6 +20,8 @@ The project is built using a modern spatial computing workflow optimized for per
 * **Target Devices:** PC with support for Controller
 * **Programming Language:** C#
 
+---
+
 ## Trailer Video
 
 <p align="left">
