@@ -6,9 +6,9 @@ The first game I ever made. A platformer with three levels where each level has 
 
 ## 🚀 Project Overview
 
-** Level 1: Basic platformer level with obstacles and moving objects
-** Level 2: Puzzle where the player has to jump around while avoiding landing on the same platform twice
-** Level 3: Boss level. Grab bombs and throw them at the boss to beat him
+* ** Level 1:** Basic platformer level with obstacles and moving objects
+* ** Level 2:** Puzzle where the player has to jump around while avoiding landing on the same platform twice
+* ** Level 3:** Boss level. Grab bombs and throw them at the boss to beat him
 
 ---
 
